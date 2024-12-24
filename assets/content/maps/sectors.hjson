@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Terra Prime",
+  "map": "terra_prime.msav",
+  "difficulty": 3,
+  "threat": 0.5,
+  "resources": {
+    "copper": 1000,
+    "lead": 800,
+    "coal": 500,
+    "titanium": 20,
+  }
+}
