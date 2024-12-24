@@ -1,5 +1,4 @@
-"name": "Atomic Mindustry Classic",
-"author": "munetori",
-"version": "1.0",
-"description": "added planets MOD",
-"minGameVersion": "136"
+name: "SimplePlanetMod"
+author: "YourName"
+version: "1.0.0"
+description: "A simple mod that adds a new planet with one sector."
